@@ -1,0 +1,8 @@
+Bill of materials:
+	* STM32F407 (ARM M4 - Digikey)
+	* L9616 (CAN transceiver - Digikey))
+	* CSD88599Q5DC (half bridges - Digikey)
+	* DRV 8302 (FET pre driver - Digikey)
+	* Power off brakes (Ali)
+	* Outrunner Brushless motors (Ali)
+	* iC-MHM from iC-Haus (14 bit absolute magnetic encoder)
