@@ -1,8 +1,9 @@
 Bill of materials:
-	* STM32F407 (ARM M4 - Digikey)
-	* L9616 (CAN transceiver - Digikey))
-	* CSD88599Q5DC (half bridges - Digikey)
-	* DRV 8302 (FET pre driver - Digikey)
-	* Power off brakes (Ali)
-	* Outrunner Brushless motors (Ali)
-	* iC-MHM from iC-Haus (14 bit absolute magnetic encoder)
+	* STM32F407 (ARM M4 - Digikey)<br/>
+	* L9616 (CAN transceiver - Digikey))<br/>
+	* CSD88599Q5DC (half bridges - Digikey)<br/>
+	* DRV 8302 (FET pre driver - Digikey)<br/>
+	* Power off brakes (Ali)<br/>
+	* Outrunner Brushless motors (Ali)<br/>
+	* iC-MHM from iC-Haus (14 bit absolute magnetic encoder)<br/>
+	* RGB ring (smart RGB addressable, controlled by a STM32F103 to keep the motor controller focusing only on the motor)
